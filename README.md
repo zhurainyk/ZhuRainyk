@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi  Welcome to Zhurainyk home 👋
+
+| 朱雨 | 男 | 年龄|
+|------|----|-----|
+|zhurainyk|boy|28 |
 
 
-**zhurainyk/zhurainyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ChongQing China
+- 🌱 I’m currently learning JavaScript 🤔
+- 👯 I’m looking to collaborate on company
+-  
+- 📫 Mail:zhurainyk@163.com
+- 💬Tel:15223333272
+- 😄 Ins: good good study ,day day up
 
