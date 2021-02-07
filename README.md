@@ -2,7 +2,7 @@
 
 | ZhuRainyk | man |28|
 |------|----|-----|
-|YunFan-Internet-Technology|web Developer|work experience of 4years
+|Inovatio |Software Developer|work experience of 4years
 
 
 
